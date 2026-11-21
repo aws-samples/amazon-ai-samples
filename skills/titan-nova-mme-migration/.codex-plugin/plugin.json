@@ -1,6 +1,6 @@
 {
   "name": "titan-nova-mme-migration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Migrate Amazon Bedrock embedding code from Titan Text Embedding V2 and Titan Multimodal Embeddings G1 to Amazon Nova Multimodal Embeddings (Nova MME). Handles all API differences: request schema, response parsing, embeddingPurpose selection, dimension mapping, client-side text+image fusion workaround, normalization changes, and binary embedding migration.",
   "author": {
     "name": "Amazon Web Services",
@@ -8,7 +8,7 @@
   },
   "homepage": "https://github.com/aws-samples/amazon-nova-samples",
   "repository": "https://github.com/aws-samples/amazon-nova-samples",
-  "license": "Apache-2.0",
+  "license": "MIT-0",
   "keywords": [
     "bedrock",
     "embeddings",

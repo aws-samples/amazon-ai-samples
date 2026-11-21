@@ -112,4 +112,4 @@ Migrate it to Nova MME — we're fine rebuilding the index.
 
 ## License
 
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the MIT-0 License. See the [LICENSE](../../LICENSE) file.
