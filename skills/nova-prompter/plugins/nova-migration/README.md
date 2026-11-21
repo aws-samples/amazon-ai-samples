@@ -23,9 +23,9 @@ Given a source prompt written for another model (Claude, GPT, Llama, etc.), `/no
 `/nova-migrate` calls `/nova1-prompt` and `/nova2-prompt` at runtime, so you need both plugins:
 
 ```
-/plugin marketplace add <this-repo-url>
-/plugin install nova-prompting
-/plugin install nova-migration
+/plugin marketplace add aws-samples/amazon-ai-samples
+/plugin install nova-prompting@aws-samples-amazon-nova-samples
+/plugin install nova-migration@aws-samples-amazon-nova-samples
 ```
 
 Or via shell script:

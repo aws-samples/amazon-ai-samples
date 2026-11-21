@@ -21,7 +21,7 @@ The plugins and powers share their underlying guidance: instructions, inference-
 ## Install — Claude Code
 
 ```
-/plugin marketplace add aws-samples/amazon-nova-samples
+/plugin marketplace add aws-samples/amazon-ai-samples
 /plugin install nova-prompting@aws-samples-amazon-nova-samples
 ```
 
@@ -80,7 +80,7 @@ These plugins and powers do not collect telemetry. All prompt processing happens
 
 ## License
 
-MIT-0 (MIT No Attribution) — distributed as part of [aws-samples/amazon-nova-samples](https://github.com/aws-samples/amazon-nova-samples). The repository's root [LICENSE](../../LICENSE) applies.
+MIT-0 (MIT No Attribution) — distributed as part of [aws-samples/amazon-ai-samples](https://github.com/aws-samples/amazon-ai-samples). The repository's root [LICENSE](../../LICENSE) applies.
 
 ## Author
 

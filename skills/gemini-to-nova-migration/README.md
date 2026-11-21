@@ -77,7 +77,7 @@ This skill ships as the `gemini-to-nova-migration` plugin via the `aws-samples-a
 Add the marketplace, then install the plugin:
 
 ```
-/plugin marketplace add https://github.com/aws-samples/amazon-nova-samples
+/plugin marketplace add https://github.com/aws-samples/amazon-ai-samples
 /plugin install gemini-to-nova-migration@aws-samples-amazon-nova-samples
 ```
 
@@ -112,4 +112,4 @@ Rewrite this Gemini multimodal prompt (image input) for Nova 2 Lite.
 - [Amazon Nova User Guide](https://docs.aws.amazon.com/nova/latest/userguide/)
 - [Amazon Bedrock `converse` API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Converse.html)
 - [Agent Skills open standard — Anthropic](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
-- [Amazon Nova Samples](https://github.com/aws-samples/amazon-nova-samples)
+- [Amazon AI Samples](https://github.com/aws-samples/amazon-ai-samples)

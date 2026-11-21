@@ -3,7 +3,7 @@
     "name": "Amazon Web Services"
   },
   "description": "Migrate Google Gemini 2.0/2.5/3.x Python code and prompts to Amazon Nova 2 Lite (boto3 Bedrock Runtime). Handles SDK conversion, prompt reformatting, tool calling, structured output, multimodal, and reasoning mode migration.",
-  "homepage": "https://github.com/aws-samples/amazon-nova-samples",
+  "homepage": "https://github.com/aws-samples/amazon-ai-samples",
   "keywords": [
     "bedrock",
     "nova",
@@ -16,6 +16,6 @@
   ],
   "license": "MIT-0",
   "name": "gemini-to-nova-migration",
-  "repository": "https://github.com/aws-samples/amazon-nova-samples",
-  "version": "1.0.1"
+  "repository": "https://github.com/aws-samples/amazon-ai-samples",
+  "version": "1.0.2"
 }

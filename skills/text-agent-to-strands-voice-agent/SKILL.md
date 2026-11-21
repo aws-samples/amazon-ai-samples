@@ -1,5 +1,5 @@
 ---
-name: text-agent-to-nova-sonic-voice
+name: text-agent-to-strands-voice-agent
 description: "Migrate any text-based agent to a Nova Sonic voice agent using Strands BidiAgent. Covers two layers: (1) Frontend — browser WebSocket client with Web Audio API for mic capture and audio playback, (2) Orchestrator — FastAPI + Strands BidiAgent server that takes the text agent's system prompt and tools and runs them as a real-time speech-to-speech agent. TRIGGER when: user wants to add voice to an existing text agent; user asks about converting a chatbot to a Nova Sonic voice agent; user mentions text-to-voice migration, Strands BidiAgent, or Nova Sonic voice agent. SKIP when: user is building a text-only agent; user wants TTS/STT without a live agent loop; user is asking about deployment or infrastructure."
 ---
 
