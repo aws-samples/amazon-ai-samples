@@ -4,8 +4,8 @@
     "name": "Amazon Nova"
   },
   "metadata": {
-    "description": "Claude Code plugins published from the aws-samples/amazon-nova-samples repository.",
-    "version": "0.1.0"
+    "description": "Claude Code plugins published from the aws-samples/amazon-ai-samples repository.",
+    "version": "0.2.0"
   },
   "plugins": [
     {
@@ -17,6 +17,11 @@
       "name": "nova-sonic25-prompting",
       "source": "./skills/nova-prompter/plugins/nova-sonic25-prompting",
       "description": "Prompt-engineering best practices for Amazon Nova Sonic 2.5 voice agents (/nova-sonic25-prompt)."
+    },
+    {
+      "name": "nova-migration",
+      "source": "./skills/nova-prompter/plugins/nova-migration",
+      "description": "End-to-end migration assistant (/nova-migrate) for porting prompts from other LLMs to Amazon Nova, with baseline capture, rubric-based evaluation, and a refine loop. Requires the nova-prompting plugin."
     },
     {
       "name": "titan-nova-mme-migration",

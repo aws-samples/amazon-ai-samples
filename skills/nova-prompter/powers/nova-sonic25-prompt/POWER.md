@@ -251,4 +251,4 @@ This power does not collect telemetry. All processing happens inside your local 
 
 ## License
 
-MIT-0 (MIT No Attribution). This power is distributed as part of [aws-samples/amazon-nova-samples](https://github.com/aws-samples/amazon-nova-samples); the repository's root `LICENSE` file applies. The power packages prompt-engineering guidance generalized from field work on Nova Sonic 2.5 voice agents. It does not bundle any MCP servers, so no third-party MCP licenses apply.
+MIT-0 (MIT No Attribution). This power is distributed as part of [aws-samples/amazon-ai-samples](https://github.com/aws-samples/amazon-ai-samples); the repository's root `LICENSE` file applies. The power packages prompt-engineering guidance generalized from field work on Nova Sonic 2.5 voice agents. It does not bundle any MCP servers, so no third-party MCP licenses apply.

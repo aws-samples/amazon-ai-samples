@@ -88,7 +88,7 @@ This skill ships as the `openai-to-nova-migration` plugin via the `aws-samples-a
 Add the marketplace, then install the plugin:
 
 ```
-/plugin marketplace add https://github.com/aws-samples/amazon-nova-samples
+/plugin marketplace add https://github.com/aws-samples/amazon-ai-samples
 /plugin install openai-to-nova-migration@aws-samples-amazon-nova-samples
 ```
 
@@ -146,4 +146,4 @@ Switch this Bedrock gpt-oss-120b Converse call over to Nova 2 Lite.
 - [Migrate from Amazon Nova 1 to Amazon Nova 2 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/migrate-from-amazon-nova-1-to-amazon-nova-2-on-amazon-bedrock/)
 - [Amazon Bedrock `converse` API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Converse.html)
 - [Agent Skills open standard — Anthropic](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
-- [Amazon Nova Samples](https://github.com/aws-samples/amazon-nova-samples)
+- [Amazon AI Samples](https://github.com/aws-samples/amazon-ai-samples)

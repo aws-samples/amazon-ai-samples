@@ -74,10 +74,10 @@ See [`references/nova-mme-api.md`](references/nova-mme-api.md) for the complete 
 
 ### Claude Code
 
-Add the `aws-samples/amazon-nova-samples` marketplace, then install the plugin:
+Add the `aws-samples/amazon-ai-samples` marketplace, then install the plugin:
 
 ```
-/plugin marketplace add aws-samples/amazon-nova-samples
+/plugin marketplace add aws-samples/amazon-ai-samples
 /plugin install titan-nova-mme-migration@aws-samples-amazon-nova-samples
 ```
 
@@ -108,7 +108,7 @@ Migrate it to Nova MME — we're fine rebuilding the index.
 - [Amazon Nova Multimodal Embeddings — User Guide](https://docs.aws.amazon.com/nova/latest/userguide/nova-multimodal-embeddings.html)
 - [Amazon Bedrock Developer Guide](https://docs.aws.amazon.com/bedrock/latest/userguide/)
 - [Agent Skills open standard — Anthropic](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
-- [Amazon Nova Samples](https://github.com/aws-samples/amazon-nova-samples)
+- [Amazon AI Samples](https://github.com/aws-samples/amazon-ai-samples)
 
 ## License
 

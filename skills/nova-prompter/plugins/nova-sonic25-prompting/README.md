@@ -9,7 +9,7 @@ This is a separate plugin from [`nova-prompting`](../nova-prompting) (Nova 1 / N
 ## Install
 
 ```
-/plugin marketplace add aws-samples/amazon-nova-samples
+/plugin marketplace add aws-samples/amazon-ai-samples
 /plugin install nova-sonic25-prompting@aws-samples-amazon-nova-samples
 ```
 

@@ -10,7 +10,7 @@ The two skills are strictly separated — `/nova1-prompt` never emits Nova 2 gui
 ## Install
 
 ```
-/plugin marketplace add aws-samples/amazon-nova-samples
+/plugin marketplace add aws-samples/amazon-ai-samples
 /plugin install nova-prompting@aws-samples-amazon-nova-samples
 ```
 
