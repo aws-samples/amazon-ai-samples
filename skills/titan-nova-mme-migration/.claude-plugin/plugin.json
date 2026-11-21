@@ -15,8 +15,8 @@
     "vector-search",
     "aws"
   ],
-  "license": "Apache-2.0",
+  "license": "MIT-0",
   "name": "titan-nova-mme-migration",
   "repository": "https://github.com/aws-samples/amazon-nova-samples",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

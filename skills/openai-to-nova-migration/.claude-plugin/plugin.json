@@ -15,8 +15,8 @@
     "prompt-engineering",
     "aws"
   ],
-  "license": "Apache-2.0",
+  "license": "MIT-0",
   "name": "openai-to-nova-migration",
   "repository": "https://github.com/aws-samples/amazon-nova-samples",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
