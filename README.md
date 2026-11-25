@@ -19,6 +19,7 @@ platforms.
 | [`multimodal-understanding/`](multimodal-understanding/) | Getting-started notebooks, a self-paced workshop, repeatable patterns, and sample apps for Nova understanding models: text, image, video, and document understanding, tool calling, RAG, agents, and prompt optimization | Amazon Bedrock (Nova Lite, Pro, Premier, Nova 2 Lite) |
 | [`speech-to-speech/`](speech-to-speech/) | Real-time, bidirectional voice conversation samples in Python, Java, Node.js, .NET, and Ruby, plus integration patterns, workshops, and a Nova Sonic 2.5 prompting guide | Amazon Bedrock (Nova Sonic, Nova 2 Sonic, Nova Sonic 2.5) |
 | [`text-to-speech/`](text-to-speech/) | A guided quickstart, focused feature samples (SSML, speech marks, lexicons, async and bidirectional streaming synthesis, voice cloning), and end-to-end speech applications | Amazon Polly, with Transcribe, Translate, Bedrock, and AgentCore in the use cases |
+| [`speech-to-text/`](speech-to-text/) | Amazon Transcribe streaming features for voice agents: semantic turn-taking, runtime hints, and runtime custom vocabulary | Amazon Transcribe |
 | [`multimodal-embeddings/`](multimodal-embeddings/) | Embedding text, images, video, audio, and documents, and patterns for semantic, multilingual, and visual search, clustering, and classification | Amazon Bedrock (Nova Multimodal Embeddings), Amazon S3 Vectors, OpenSearch Serverless |
 | [`customization/`](customization/) | Fine-tuning (SFT, PEFT, DPO), reinforcement fine-tuning (RFT), distillation, evaluation, and deployment of custom Nova models, plus HyperPod setup and utilities | Amazon Bedrock, Amazon SageMaker AI (Training Jobs, HyperPod) |
 | [`nova-act/`](nova-act/) | Tutorials and use cases for building agents that take actions in web browsers: QA testing, adaptive UI testing, and price comparison | Amazon Nova Act, Amazon Bedrock AgentCore Browser |
@@ -34,6 +35,7 @@ platforms.
 | Build a real-time voice agent | [`speech-to-speech/amazon-nova-2-sonic/`](speech-to-speech/amazon-nova-2-sonic/) |
 | Write prompts for Nova Sonic 2.5 | [`speech-to-speech/amazon-nova-2.5-sonic/`](speech-to-speech/amazon-nova-2.5-sonic/) |
 | Convert text to natural-sounding speech | [`text-to-speech/getting-started/`](text-to-speech/getting-started/) |
+| Add turn-taking and runtime hints to a voice agent's speech-to-text | [`speech-to-text/turbo/features/javascript/`](speech-to-text/turbo/features/javascript/) |
 | Build semantic or multimodal search | [`multimodal-embeddings/getting-started/`](multimodal-embeddings/getting-started/) |
 | Fine-tune or distill a Nova model | [`customization/`](customization/) |
 | Automate browser workflows with an agent | [`nova-act/tutorials/path-to-production/`](nova-act/tutorials/path-to-production/) |
